@@ -1,0 +1,52 @@
+{
+  "about-section": {
+    "title": "Sobre mí",
+    "description": "Desarrollador web con experiencia en diseño, desarrollo y mantenimiento en aplicaciones web."
+  },
+  "experience-box": {
+    "title": "Años de experiencia"
+  },
+  "location-box": {
+    "title": "De Bogotá, Colombia"
+  },
+  "projects-section": {
+    "title": "Proyectos",
+    "description": "Algunos de los proyectos en los que he trabajado:",
+    "work-experience": "Experiencia laboral",
+    "personal-experience": "Experiencia personal",
+    "projects": {
+      "mincultura": "Desarrollo y actualización de aplicativo SIMUS.",
+      "gie": "Propuesta para una agencia que facilita viajes a medida y trámites de visas.",
+      "bambas": "Landing page empresa de minería",
+      "sistemab": "Creación de página y directorio de Empresas B Colombianas"
+    }
+  },
+  "technologies-section": {
+    "title": "Tecnologías",
+    "description": "Algunas de las tecnologías que he utilizado:"
+  },
+  "experience-section": {
+    "title": "Experiencia",
+    "description": "He trabajado en proyectos para empresas como:",
+    "companies": {
+      "developerx": {
+        "dates": "2024"
+      },
+      "mincultura": {
+        "dates": "Mar. 2024 — Presente"
+      },
+      "didigital": {
+        "dates": "Feb. 2024 — Presente"
+      },
+      "bwl": {
+        "dates": "Ene. 2021 — Nov. 2023"
+      }
+    }
+  },
+  "others-translations": {
+    "degree": "Desarrollador Full Stack",
+    "visit": "Visita",
+    "copy-right": "Todos los derechos reservados",
+    "last-update": "Última actualización: Viernes, 14 de Junio de 2024"
+  }
+}

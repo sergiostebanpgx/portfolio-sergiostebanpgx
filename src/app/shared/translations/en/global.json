@@ -1,0 +1,52 @@
+{
+  "about-section": {
+    "title": "About me",
+    "description": "Web developer with experience in design, development and maintenance of web applications."
+  },
+  "experience-box": {
+    "title": "Years of experience"
+  },
+  "location-box": {
+    "title": "From Bogotá, Colombia"
+  },
+  "projects-section": {
+    "title": "Projects",
+    "description": "Here are some projects I've worked on in the past few years.",
+    "work-experience": "Work Experience",
+    "personal-experience": "Personal Experience",
+    "projects": {
+      "mincultura": "Development and update of SIMUS application.",
+      "gie": "Proposal for an agency that facilitates tailor-made travel and visa procedures.",
+      "bambas": "Landing page mining company",
+      "sistemab": "Creation of a web page and directory of Colombian B Corporations."
+    }
+  },
+  "technologies-section": {
+    "title": "Technologies",
+    "description": "These are some of the technologies I've worked with:"
+  },
+  "experience-section": {
+    "title": "Experience",
+    "description": "I have worked for the following companies:",
+    "companies": {
+      "developerx": {
+        "dates": "2024"
+      },
+      "mincultura": {
+        "dates": "Mar. 2024 — Present"
+      },
+      "didigital": {
+        "dates": "Feb. 2024 — Present"
+      },
+      "bwl": {
+        "dates": "Jan. 2021 — Nov. 2023"
+      }
+    }
+  },
+  "others-translations": {
+    "degree": "Full Stack Developer",
+    "visit": "Visit",
+    "copy-right": "All rights reserved.",
+    "last-update": "Last update: Friday, 14 June 2024"
+  }
+}
